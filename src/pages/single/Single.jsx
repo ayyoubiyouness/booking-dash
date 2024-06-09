@@ -17,7 +17,7 @@ const Single = () => {
             <div className="InfoSect">Informations</div>
             <div className="details">
               <div className="leftDetails">
-                <img src='https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500' alt='image profil' />
+                <img src='https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500' alt='' />
               </div>
               <div className="rightDetails">
                 <h1 className='titleProfil'> Jane Doe</h1>
