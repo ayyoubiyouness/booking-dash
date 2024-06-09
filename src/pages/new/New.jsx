@@ -15,7 +15,7 @@ const New = ({inputs, title}) => {
         </div>
         <div className='bottom'>
           <div className="left">
-            <img src= "https://icon-library.com/images/no-image-icon/no-image-icon-0.jpg"/>
+            <img src= "https://icon-library.com/images/no-image-icon/no-image-icon-0.jpg" alt='this is an image'/>
           </div>
           <div className='right'>
             this is the right 
