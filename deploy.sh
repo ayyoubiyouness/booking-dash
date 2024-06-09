@@ -11,7 +11,7 @@ npm run build
 HOSTINGER_FTP_HOST=ftp://haya-tech.net
 HOSTINGER_FTP_USER=u203255105
 HOSTINGER_FTP_PASSWORD=8ELNNkab!y_FtMa
-REMOTE_DIR=/public_html/hello.haya-tech.net
+REMOTE_DIR=/public_html/hello
 
 # Upload build files to Hostinger
 lftp -u $HOSTINGER_FTP_USER,$HOSTINGER_FTP_PASSWORD $HOSTINGER_FTP_HOST <<EOF
